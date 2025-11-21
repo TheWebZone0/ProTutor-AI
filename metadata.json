@@ -1,0 +1,8 @@
+{
+  "name": "ProTutor AI",
+  "description": "A professional AI study companion helping students with step-by-step solutions, reasoning, and practice problems across multiple subjects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
